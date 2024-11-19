@@ -6,6 +6,9 @@ TO DO
 * Also fix the Moon, honestly currently it doesnt even look like a moon yet
 * Also add the section ID for sleep and ID
 
+light mode and depp sleep sucks
+
+
 
 
 ####################################
@@ -56,7 +59,9 @@ Also If we refered to the above section that speaks about the stages of deep sle
 
 ###############################
 THE SOLUTION 
-##############################
-speak about actigraphy and the use of gyroscoope to make a prediction on what stage of sleep we are in rn 
+###############################
+Ideally we want to detect when we are on the lightest sleep stage closest to the actual time that we want to wake and then trigger the alarm. Since each stage is characters by some physical quantatities that can be measured and asseseed, we can use a set of instrunments do measure and detect the sleep stage. The variable changes which take place while sleeping can be measured with different mechanisms.Sleep is comprised of rhythimically recurring sleep stages whuch are defined by looking at brain waves, or an electroelncephalogram EEG, in conjuction with the electrooculogram EOG, which records eye movements and the electromyogram EMG, a measure of muscle ctivity.  One of the most popular ones, Polysomnography (PSG), is the gold standard test for the study of sleep. However, albeit effective, this method is intrusive as well as unfeasible, since an entire specialized room equipped with sophisticated and expensive machines are required.
+
+So in this project I suggested the use of in expensive instrunments to implement, such instruncments inlcude making of an anctigraphy out of Heart rate sensors, motion sensors, an making an alarm dock with the reaspberry pi pico responsibe with analysis and performing algorithmic computation 
 
 

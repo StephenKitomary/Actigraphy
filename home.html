@@ -51,8 +51,8 @@
                         </li>
                         <li class="menu__list-item">
                             <a class="menu__list-link" href="#sleep-section">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-                                    <path fill="#fff" d="M12 2C8 2 5 5 5 9C5 13 8 16 12 16C14.9 16 17 14.5 18 12C15 12.5 13 10 13 7C13 4.8 13.7 3 12 2Z"/>
+                                <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none">
+                                    <path d="M21.0672 11.8568L20.4253 11.469L21.0672 11.8568ZM12.1432 2.93276L11.7553 2.29085V2.29085L12.1432 2.93276ZM21.25 12C21.25 17.1086 17.1086 21.25 12 21.25V22.75C17.9371 22.75 22.75 17.9371 22.75 12H21.25ZM12 21.25C6.89137 21.25 2.75 17.1086 2.75 12H1.25C1.25 17.9371 6.06294 22.75 12 22.75V21.25ZM2.75 12C2.75 6.89137 6.89137 2.75 12 2.75V1.25C6.06294 1.25 1.25 6.06294 1.25 12H2.75ZM15.5 14.25C12.3244 14.25 9.75 11.6756 9.75 8.5H8.25C8.25 12.5041 11.4959 15.75 15.5 15.75V14.25ZM20.4253 11.469C19.4172 13.1373 17.5882 14.25 15.5 14.25V15.75C18.1349 15.75 20.4407 14.3439 21.7092 12.2447L20.4253 11.469ZM9.75 8.5C9.75 6.41182 10.8627 4.5828 12.531 3.57467L11.7553 2.29085C9.65609 3.5593 8.25 5.86509 8.25 8.5H9.75ZM12 2.75C11.9115 2.75 11.8077 2.71008 11.7324 2.63168C11.6686 2.56527 11.6538 2.50244 11.6503 2.47703C11.6461 2.44587 11.6482 2.35557 11.7553 2.29085L12.531 3.57467C13.0342 3.27065 13.196 2.71398 13.1368 2.27627C13.0754 1.82126 12.7166 1.25 12 1.25V2.75ZM21.7092 12.2447C21.6444 12.3518 21.5541 12.3539 21.523 12.3497C21.4976 12.3462 21.4347 12.3314 21.3683 12.2676C21.2899 12.1923 21.25 12.0885 21.25 12H22.75C22.75 11.2834 22.1787 10.9246 21.7237 10.8632C21.286 10.804 20.7293 10.9658 20.4253 11.469L21.7092 12.2447Z" fill = "white"/>
                                 </svg>
                                 <span>
                                     Sleep
@@ -319,33 +319,23 @@
 
                                     Traditional alarms, whether they’re mechanical bedside clocks or phone alarms, can abruptly disrupt your sleep cycle. These sudden jolts wake you up using the body’s fight-or-flight response, triggering a sharp spike in stress hormones like adrenaline and cortisol. This causes your heart rate and blood pressure to rise rapidly, setting an unhealthy tone for the day. If your alarm wakes you during the restorative deep sleep or REM stage, the consequences can be even worse, as these phases are crucial for physical recovery, memory consolidation, and overall well-being
                                 </p>
-                                <p class="blog-section-box-content__text">
-                                    When it comes to designing an ecommerce website,
-                                    <span>
-                                        simple is always better
-                                    </span>
-                                    .
-                                    The more
-                                    elements you have on the page, the more it takes away from the entire point of the
-                                    website—closing a sale.
-                                </p>
-                                <p class="blog-section-box-content__text">
-                                    You don’t need a ton of bells and whistles on your ecommerce website—all they do is
-                                    act as distraction. Keep your design clear, clean, and simple—and keep the focus on
-                                    the sale.
-                                </p>
+            
                             </div>
                         </div>
                         <div class="blog-section__box blog-section-box">
                             <div class="blog-section-box__content blog-section-box-content">
                                 <h2 class="blog-section-box-content__title">
-                                    2. Make Branding a Priority
+                                    The Solution
                                 </h2>
                                 <p class="blog-section-box-content__text">
-                                    When it comes to shopping online, people want to buy from established brands—not
-                                    faceless ecommerce sites that look like a front for trying to steal your credit card
-                                    information.
+                                    Instead of relying on abrupt alarms that jolt you awake, the ideal solution is to wake up during the lightest stage of sleep closest to your desired wake-up time. 
+                                    Sleep stages are typically studied using advanced methods like polysomnography (PSG), industry standard for sleep research. PSG combines measurements from an electroencephalogram (EEG) to track brain waves, an electrooculogram (EOG) to monitor eye movements, and an electromyogram (EMG) to assess muscle activity. While effective, this method requires a specialized environment, expensive equipment, and professional oversight, making it impractical for everyday use.
+
+                                    For this project, I proposed a more accessible and cost-effective approach. By using readily available instruments such as <span> heart rate sensors</span> and <span>motion sensors</span>, we can mimic aspects of actigraphy, a less intrusive method for tracking sleep stages. These sensors feed data to a RP2040 microcontroller - The raspberry pi pico, which performs the analysis and algorithmic computations necessary to determine the sleep stage in real time. 
                                 </p>
+                                <h2 class="blog-section-box-content__title">
+                                    Actigraphy
+                                </h2>
                                 <p class="blog-section-box-content__text">
                                     If you want to build the trust you need to drive serious sales with your ecommerce
                                     business, you need to put some serious thought into your branding. Your branding is
