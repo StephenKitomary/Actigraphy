@@ -1,4 +1,16 @@
+##################################
+TO DO 
+###################################
+* Change the Phone background to a lighter shade of purple
+* The alarm icon is a mess,,,doesnt change to black paths when i switch fro dark mode to light mode
+* Also fix the Moon, honestly currently it doesnt even look like a moon yet
+* Also add the section ID for sleep and ID
+
+
+
+####################################
 THIS THING CALLED SLEEP 
+#####################################
 
 during sleep we have decreases awareness and responsiveness to the external environment, dimished conciouseness and the thythmic appearance of certain physiologic patterns. 
 
@@ -28,3 +40,15 @@ The first part of the cycle is non-REM sleep, which is composed of four stages. 
 As you cycle into REM sleep, the eyes move rapidly behind closed lids, and brain waves are similar to those during wakefulness. Breath rate increases and the body becomes temporarily paralyzed as we dream.
 
 The cycle then repeats itself, but with each cycle you spend less time in the deeper stages three and four of sleep and more time in REM sleep. On a typical night, you’ll cycle through four or five times.
+
+#########################
+ALARMS 
+#########################
+
+Idealy you want to wake up during the light sleep stage, which can make you feel more refreshed and alert. Hoever if you wake up during a deeper stage of sleep, it can be more difficult to shake off the groginess an dfeel fully awake . 
+Anything that disrupts your slepp is bad including alarms
+
+The jolt that wake you up isnt good for you at all, Infact waking up everyday using a fight or flight response isnt helping anoyone have a rpoductive day, some times you wake up as though you were drunk 
+Typical alarms (This includes your Normal Phone alarms, bedsite mechanical alarms and such)are not good, because they can abrupty disrupt your sleep cycle, trigerring a stress response in your body by causinf a sudden spike in adrenaline and cortisol, leading to an increades heart rate and blood pressure and potentially impacting yout modd and overall well being.
+
+Also If we refered to the above section that speaks about the stages of deep sleep, imagine your alarm going off when you are in a REM stage or deep sleep stage, stages that are very crucial to our bod, the reslt isnt good at all
