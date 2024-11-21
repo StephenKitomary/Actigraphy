@@ -1,7 +1,7 @@
 ##################################
 TO DO 
 ###################################
-* Change the Phone background to a lighter shade of purple
+* Change the Phone background to a lighter shade of purple...i will work on this def
 * The alarm icon is a mess,,,doesnt change to black paths when i switch fro dark mode to light mode
 * Also fix the Moon, honestly currently it doesnt even look like a moon yet
 * Also add the section ID for sleep and ID
