@@ -7738,9 +7738,12 @@ textarea:focus{
  }
 
  .blog-section-box-content__text span {
-     color: #f9d442
- }
+    color: #f9d442; 
+}
 
+.body--white .blog-section-box-content__text span {
+    color: #9981c2; 
+}
  .blog-section-box-content__title {
      color: #fff;
      leading-trim: both;
