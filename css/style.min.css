@@ -14548,7 +14548,7 @@ html .elite-rating span {
 }
 
 .demo-img-second,.demo-img-first {
-    cursor: none !important;
+    cursor: pointer !important;
 }
 
 .demo-img-second  span:last-child{
